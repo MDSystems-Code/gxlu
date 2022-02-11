@@ -14,8 +14,8 @@
 <span style="padding-left: 100px;">-i, --invalid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if used with --out will give a file invalid.outputfilename else will print in std out</span></br>
 <p>
 Examples:</br>
-python glxu.py -s example@gmail.com</br>
-python glxu.py -f emails.txt -t 50 -o out.txt</br>
+python gxlu.py -s example@gmail.com</br>
+python gxlu.py -f emails.txt -t 50 -o out.txt</br>
 </p>
 <p>Thanks to to x0rz for infos on his blog <a href="https://blog.0day.rocks/abusing-gmail-to-get-previously-unlisted-e-mail-addresses-41544b62b2" >https://blog.0day.rocks/abusing-gmail-to-get-previously-unlisted-e-mail-addresses-41544b62b2</a>
 </p>
